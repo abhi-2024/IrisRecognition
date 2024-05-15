@@ -58,7 +58,10 @@ python src/main.py
 - Follow the on-screen instructions to view the matching result.
 
 ## Contributors
-Khelil Rafik OUARAS (@OUARAS-khelil-Rafik)
+- Abhishek Ojha
+- Suvam Saha
+- Soham Das
+- Aritra Das
 
 ## environment.txt
 - pip=24.0
